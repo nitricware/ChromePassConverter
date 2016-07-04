@@ -1,4 +1,4 @@
-# ChromePassConverter
+# ChromePassConverter [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?maxAge=2592000)]()
 
 ## Introduction
 
