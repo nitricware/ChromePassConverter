@@ -1,4 +1,6 @@
-# ChromePassConverter
+[version]: https://img.shields.io/badge/Version-0.1-brightgreen.svg "Version 0.1"
+
+# ChromePassConverter [version]
 
 ## Introduction
 
