@@ -6,11 +6,11 @@ ChromePassConverter converts an XML file created with ChromePass from NirSoft to
 
 ## Licence
 
-The ChromePassConverter is distributed under the *MIT License* which allows you to use it privately and commercially, to distribute, modify and sublicense it. You may not hold me liable and must include my name in the credits of your work. ChromePassConverter was created by *Kurt Höblinger* as *NitricWare*.
+The ChromePassConverter is distributed under the **MIT License** which allows you to use it privately and commercially, to distribute, modify and sublicense it. You may not hold me liable and must include my name in the credits of your work. ChromePassConverter was created by **Kurt Höblinger** as **NitricWare**.
 
 ## Requirements
 
-Besides Chrome, Firefox, Password Exporter and ChromePass you need *PHP 5*.
+Besides Chrome, Firefox, Password Exporter and ChromePass you need **PHP 5**.
 
 ## Usage
 
