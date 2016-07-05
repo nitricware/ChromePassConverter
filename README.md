@@ -16,9 +16,9 @@ Besides Chrome, Firefox, Password Exporter and ChromePass you need **PHP 5**.
 
 ## Usage
 
-1. Edit the variable ```$passFile``` in ```converter.php``` to match the path to the XML file that was created by ChromePass or name the XML file that was created by ChromePass ```pass.xml```.
+1. Edit the variable ```$passFile``` in ```converter.php``` to match the path to the XML file that was created by ChromePass or name the XML file that was created by ChromePass ```pass.xml``` and put it in the same directory.
 2. Run ```converter.php```
-3. Copy the output to a new file (i.e. ```firefoxPasses.xml```)
+3. Copy the output to a new file (i.e. ```firefoxPasses.xml```) with a texteditor of your choice.
 
 ## Further Information
 
