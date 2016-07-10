@@ -1,4 +1,4 @@
-[version]: https://img.shields.io/badge/Version-0.1-brightgreen.svg "Version 0.1"
+[version]: https://img.shields.io/badge/Version-0.1.1-brightgreen.svg "Version 0.0.1"
 
 # ChromePassConverter ![Version][version]
 
