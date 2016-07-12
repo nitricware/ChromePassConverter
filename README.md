@@ -23,3 +23,9 @@ Besides Chrome, Firefox, Password Exporter and ChromePass you need **PHP 5**.
 ## Further Information
 
 For further Information see the blog post over at NitricWare's Dev Blog (https://nitricdev.wordpress.com/2016/07/04/chromepass-converter/)
+
+## Changelog
+
+0.1 - Initial Release
+0.1.1 - Code cleanup
+0.2 - Save as file option
