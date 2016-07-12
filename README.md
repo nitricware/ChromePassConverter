@@ -1,4 +1,4 @@
-[version]: https://img.shields.io/badge/Version-0.1.1-brightgreen.svg "Version 0.0.1"
+[version]: https://img.shields.io/badge/Version-0.2-brightgreen.svg "Version 0.2"
 
 # ChromePassConverter ![Version][version]
 
@@ -12,13 +12,14 @@ The ChromePassConverter is distributed under the **MIT License** which allows yo
 
 ## Requirements
 
-Besides Chrome, Firefox, Password Exporter and ChromePass you need **PHP 5**.
+Besides Chrome, Firefox, Password Exporter and ChromePass (only available for Windows) you need **PHP 5**.
 
 ## Usage
 
 1. Edit the variable ```$passFile``` in ```converter.php``` to match the path to the XML file that was created by ChromePass or name the XML file that was created by ChromePass ```pass.xml``` and put it in the same directory.
-2. Run ```converter.php```
-3. Copy the output to a new file (i.e. ```firefoxPasses.xml```) with a texteditor of your choice.
+2. Modify the options
+3. Run ```converter.php```
+4. Copy the output to a new file (i.e. ```firefoxPasses.xml```) with a texteditor of your choice.
 
 ## Further Information
 
